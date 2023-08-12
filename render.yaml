@@ -1,0 +1,6 @@
+services:
+  
+  - type: web
+    name: golden-games
+    runtime: docker
+    plan: free
